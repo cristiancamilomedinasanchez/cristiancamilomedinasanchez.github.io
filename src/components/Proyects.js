@@ -159,7 +159,7 @@ const challangeVisibility9 = () => {
 </div>
 
 <div className='description-proyects'>
-{ visibilityDescription & visibility === 1 &&
+{ visibilityDescription && visibility === 1 &&
 
 <div>
 <h1>{arrayProyects[0].name}</h1>
@@ -168,7 +168,7 @@ const challangeVisibility9 = () => {
 </div> 
   }
   
-  { visibilityDescription & visibility === 2 &&
+  { visibilityDescription && visibility === 2 &&
 
 <div>
 <h1>{arrayProyects[1].name}</h1>
@@ -180,7 +180,7 @@ const challangeVisibility9 = () => {
 
 
 
-{ visibilityDescription & visibility === 3 &&
+{ visibilityDescription && visibility === 3 &&
 
 <div>
 <h1>{arrayProyects[2].name}</h1>
@@ -191,7 +191,7 @@ const challangeVisibility9 = () => {
 
 
 
-{ visibilityDescription & visibility === 4 &&
+{ visibilityDescription && visibility === 4 &&
 
 <div className='container-inter-desciption'>
 <h1>{arrayProyects[3].name}</h1>
@@ -202,7 +202,7 @@ const challangeVisibility9 = () => {
 
 
 
-{ visibilityDescription & visibility === 5 &&
+{ visibilityDescription && visibility === 5 &&
 
 <div>
 <h1>{arrayProyects[4].name}</h1>
@@ -214,7 +214,7 @@ const challangeVisibility9 = () => {
 
 
 
-{ visibilityDescription & visibility === 6 &&
+{ visibilityDescription && visibility === 6 &&
 
 <div>
 <h1>{arrayProyects[5].name}</h1>
@@ -222,7 +222,7 @@ const challangeVisibility9 = () => {
 </div> 
   }
 
-{ visibilityDescription & visibility === 7 &&
+{ visibilityDescription && visibility === 7 &&
 
 <div>
 <h1>{arrayProyectsAngular[0].name}</h1>
@@ -231,7 +231,7 @@ const challangeVisibility9 = () => {
 </div> 
   }
   
-  { visibilityDescription & visibility === 8 &&
+  { visibilityDescription && visibility === 8 &&
 
 <div>
 <h1>{arrayProyectsAngular[1].name}</h1>
@@ -243,7 +243,7 @@ const challangeVisibility9 = () => {
 
 
 
-{ visibilityDescription & visibility === 9 &&
+{ visibilityDescription && visibility === 9 &&
 
 <div>
 <h1>{arrayProyectsAngular[2].name}</h1>
