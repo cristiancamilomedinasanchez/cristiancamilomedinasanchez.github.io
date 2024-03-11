@@ -74,21 +74,21 @@ const functionVisibility = () => {
 
 </div>}
 {
-    visibilityPresentation  & visibilityGestion === 0 && functionVisibilityFromMe()
+    visibilityPresentation  && visibilityGestion === 0 && functionVisibilityFromMe()
 }
 
 {
-    visibilityProyects & visibilityGestion === 3 && functionVisibilityProyects()
-}
-
-
-{
-    visibilityExperience & visibilityGestion === 2 && functionVisibilityExperience()
+    visibilityProyects && visibilityGestion === 3 && functionVisibilityProyects()
 }
 
 
 {
-    visibilityContact & visibilityGestion === 1 && functionVisibilityContacts()
+    visibilityExperience && visibilityGestion === 2 && functionVisibilityExperience()
+}
+
+
+{
+    visibilityContact && visibilityGestion === 1 && functionVisibilityContacts()
 }
 
 

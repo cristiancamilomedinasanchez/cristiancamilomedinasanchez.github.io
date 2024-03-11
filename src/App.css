@@ -382,6 +382,16 @@ margin-top: 50px;
   margin-top: 275px;
 }
 
+.img-logo{
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  border: solid 1px white;
+  position: absolute;
+  left: 1500px;
+  top: 0px;
+}
+
 @media(max-width: 319px){
   html, body{
     display: none;
@@ -411,10 +421,33 @@ margin-top: 50px;
 }
 
 .container-icons-barnav {
-  margin-left: 200px;
-  margin-top: 25px;
+  left: -90px;
+  top: 50px;
   width: 700px;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  z-index: 2;
 }
+
+.img-logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: solid 1px white;
+  position: absolute;
+  left: 800px;
+  top: 0px;
+  z-index: 5;
+}
+.img-barnav-btn {
+  margin-left: -25px;
+  background-color: rgba(0 0 0 0.5);
+  width: 120px;
+  height: 25px;
+  padding: 2.5px;
+}
+
 
 
 .presentation-container {
@@ -495,6 +528,16 @@ margin-top: 50px;
   width: 300px;
 }
 
+.img-logo {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  border: solid 1px white;
+  position: absolute;
+  left: 800px;
+  top: 0px;
+}
+
 }
 
 @media(min-width: 460px){
@@ -526,9 +569,10 @@ margin-top: 50px;
 }
 
 .container-icons-barnav {
-  margin-left: 300px;
-  margin-top: 25px;
+  left: 130px;
+  top: 50px;
   width: 900px;
+  position: absolute;
 }
 
 .img-barnav-btn {
@@ -553,6 +597,16 @@ margin-top: 50px;
 #thera-web{
   font-size: 40px;
   margin-left: -75px;
+}
+
+.img-logo {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  border: solid 1px white;
+  position: absolute;
+  left: 1050px;
+  top: 0px;
 }
 
 
@@ -613,16 +667,21 @@ margin-top: 50px;
 }
 
 .container-icons-barnav {
-  margin-left: 100px;
+  margin-left: 300px;
   margin-top: 25px;
-  width: 900px;
+  width: auto;
+  position: absolute;
 }
+
+
 .img-barnav-btn {
   margin-left: 0px;
   background-color: rgba(0 0 0 0.5);
-  width: 80px;
+  width: 120px;
   height: 25px;
 }
+
+
 
 .name {
   margin-top: 100px;
@@ -750,7 +809,7 @@ body, html{
 #thera-web {
   font-size: 30px;
   margin-left: -5px;
-  margin-top: 25px;
+  margin-top: 50px;
 }
 
 .description-proyects{
@@ -764,9 +823,37 @@ body, html{
   border-radius: 10px;
 }
 
+.img-logo {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  border: solid 1px white;
+  position: absolute;
+  left: 450px;
+  top: 0px;
+}
+
 }
 @media(min-width: 720px){
-  
+
+
+  .container-icons-barnav {
+    margin-left: 450px;
+    margin-top: 25px;
+    width: auto;
+    position: absolute;
+}
+
+
+  .img-logo {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    border: solid 1px white;
+    position: absolute;
+    left: 600px;
+    top: 0px;
+}
 
 .fromme-container {
   position: absolute;
@@ -826,6 +913,17 @@ body, html{
 }
 
 @media(min-width: 900px){
+  .img-logo {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    border: solid 1px white;
+    position: absolute;
+    left: 770px;
+    top: 0px;
+}
+
+
   .home-container {
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -885,6 +983,15 @@ body, html{
 }
 
 @media(min-width: 1280px){
+  .img-logo {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    border: solid 1px white;
+    position: absolute;
+    left: 1150px;
+    top: 0px;
+}
   .home-container {
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -994,6 +1101,12 @@ body, html{
   margin-top: 100px;
 }
 
+.container-icons-barnav {
+  margin-left: 1000px;
+  margin-top: 25px;
+  width: auto;
+  position: absolute;
+}
 
 }
 
@@ -1046,9 +1159,26 @@ body, html{
 }
 
 .container-icons-barnav {
-  margin-left: 900px;
-  margin-top: 25px;
-  width: 900px;
+  left: 100px;
+  top: 50px;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+}
+.img-logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: solid 1px white;
+  position: absolute;
+  left: 1125px;
+  top: 0px;
+  padding: 5px;
+}
+.img-logo:hover{
+  background-color: white;
+  padding: 10px;
 }
 
 .description-proyects {
@@ -1068,6 +1198,29 @@ body, html{
   width: 100vw;
   height: 230vh;
 }
+
+
+.img-barnav-btn {
+  margin-left: 0px;
+  background-color: rgba(0 0 0 0.5);
+  width: 120px;
+  height: 25px;
+}
+
+
+#thera-web{
+  margin-top: 50px;
+}
+.text-buttons{
+  padding: 2.5px;
+  margin-left: 5px;
+  text-align: right;
+}
+.img-barnav{
+  text-align: left;
+  /* padding: 2.5px; */
+}
+
 }
 
 
