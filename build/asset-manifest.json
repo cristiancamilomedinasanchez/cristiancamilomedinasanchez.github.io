@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b753dca.css",
+    "main.js": "/static/js/main.beebc4b2.js",
+    "static/js/787.a2d1897a.chunk.js": "/static/js/787.a2d1897a.chunk.js",
+    "static/media/thepointofthemascot.png": "/static/media/thepointofthemascot.6439e4713fa2436ff83d.png",
+    "static/media/chatAngular.png": "/static/media/chatAngular.5865e724c34f597c8b82.png",
+    "static/media/chat publico.png": "/static/media/chat publico.4fb0036885ea46532eb1.png",
+    "static/media/bitpaytrading.png": "/static/media/bitpaytrading.26e1e4d8584bf7204d7d.png",
+    "static/media/menudigital.png": "/static/media/menudigital.6391c211ef000d8623be.png",
+    "static/media/me.jpg": "/static/media/me.e1fc2b8d7ac67a1a452d.jpg",
+    "static/media/qrPlatform.png": "/static/media/qrPlatform.4875cbd117e6db404381.png",
+    "static/media/Proyecto_en_construccion.jpg": "/static/media/Proyecto_en_construccion.ed25e02e527e3e068b90.jpg",
+    "static/media/github-removebg-preview.png": "/static/media/github-removebg-preview.b1d0bfa4a1e86dc169e4.png",
+    "static/media/trabajos-removebg-preview.png": "/static/media/trabajos-removebg-preview.82d65c63a8bf15063c74.png",
+    "static/media/whatssap-removebg-preview.png": "/static/media/whatssap-removebg-preview.613998ceb119ef04bf31.png",
+    "static/media/correo-removebg-preview.png": "/static/media/correo-removebg-preview.57ebcbf6f39638151f8c.png",
+    "static/media/homehd_106102-removebg-preview.png": "/static/media/homehd_106102-removebg-preview.3fe636b465b8032d0307.png",
+    "static/media/linkedin-removebg-preview.png": "/static/media/linkedin-removebg-preview.fe5ff753f5f4fb81308f.png",
+    "static/media/react_js-removebg-preview.png": "/static/media/react_js-removebg-preview.416b301c46f871058d10.png",
+    "static/media/experiencia-removebg-preview.png": "/static/media/experiencia-removebg-preview.98a043014e1da8e2f7da.png",
+    "static/media/oficina1.jpeg": "/static/media/oficina1.97baefbfd38e6e27ef44.jpeg",
+    "static/media/Cheff-Tweet.png": "/static/media/Cheff-Tweet.c8c8e4ad7f5aafaa3eb4.png",
+    "static/media/express_js-removebg-preview.png": "/static/media/express_js-removebg-preview.28a737335d8aeb74f4e8.png",
+    "static/media/mysql-removebg-preview.png": "/static/media/mysql-removebg-preview.8968726fad337dfaa55e.png",
+    "static/media/contactos_icon_161077-removebg-preview.png": "/static/media/contactos_icon_161077-removebg-preview.6a11058538e6ffa942ad.png",
+    "static/media/node_js-removebg-preview.png": "/static/media/node_js-removebg-preview.23ed12c05679888f156e.png",
+    "static/media/HTML-removebg-preview.png": "/static/media/HTML-removebg-preview.0cf70e226028fcf794db.png",
+    "static/media/JAVASCRIPT-removebg-preview.png": "/static/media/JAVASCRIPT-removebg-preview.e7666949de72767e3e9b.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.2b753dca.css.map": "/static/css/main.2b753dca.css.map",
+    "main.beebc4b2.js.map": "/static/js/main.beebc4b2.js.map",
+    "787.a2d1897a.chunk.js.map": "/static/js/787.a2d1897a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b753dca.css",
+    "static/js/main.beebc4b2.js"
+  ]
+}
