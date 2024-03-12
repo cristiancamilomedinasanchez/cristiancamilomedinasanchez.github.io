@@ -391,6 +391,9 @@ margin-top: 50px;
   left: 1500px;
   top: 0px;
 }
+.img-barnav {
+  text-align: right;
+}
 
 @media(max-width: 319px){
   html, body{
@@ -403,6 +406,14 @@ margin-top: 50px;
     margin-top: 400px;
   }
   
+
+  .container-tecnologies-backend {
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    margin-left: -100px;
+}
+
 
   /*  */
   .home-container {
@@ -423,11 +434,29 @@ margin-top: 50px;
 .container-icons-barnav {
   left: -90px;
   top: 50px;
-  width: 700px;
+  width: 100px;
   display: flex;
   flex-direction: column;
   position: absolute;
   z-index: 2;
+}
+
+.img-barnav-btn {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 5px; /* Agregar bordes redondeados */
+  color: white; /* Color del texto */
+  height: 35px;
+  margin-left: 0;
+  width: 130px;
+  border: none; /* Eliminar bordes */
+  cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+  transition: background-color 0.3s ease; /* Efecto de transición suave */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Efecto de sombra */
+}
+
+/* Cambiar el color del botón al pasar el mouse */
+.img-barnav-btn:hover {
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 .img-logo {
@@ -571,9 +600,28 @@ margin-top: 50px;
 .container-icons-barnav {
   left: 130px;
   top: 50px;
-  width: 900px;
+  width: 250px;
   position: absolute;
 }
+
+.img-barnav-btn {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 5px; /* Agregar bordes redondeados */
+  color: white; /* Color del texto */
+  height: 35px;
+  margin-left: 0;
+  width: 130px;
+  border: none; /* Eliminar bordes */
+  cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+  transition: background-color 0.3s ease; /* Efecto de transición suave */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Efecto de sombra */
+}
+
+/* Cambiar el color del botón al pasar el mouse */
+.img-barnav-btn:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
 
 .img-barnav-btn {
   margin-left: 0px;
@@ -618,6 +666,23 @@ margin-top: 50px;
   }
   
   /*  */
+  .img-barnav-btn {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5px; /* Agregar bordes redondeados */
+    color: white; /* Color del texto */
+    height: 35px;
+    margin-left: 0;
+    width: 130px;
+    border: none; /* Eliminar bordes */
+    cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+    transition: background-color 0.3s ease; /* Efecto de transición suave */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Efecto de sombra */
+  }
+  
+  /* Cambiar el color del botón al pasar el mouse */
+  .img-barnav-btn:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+  }
 
   .home-container {
     background-size: 100% 100%;
@@ -773,10 +838,10 @@ margin-top: 50px;
   height: auto;
 }
 .container-tecnologies-backend {
-  width: 500px;
+  width: 300px;
   display: flex;
   flex-direction: column;
-  margin-left: -225px;
+  margin-left: 50px;
   margin-top: 150px;
   position: absolute;
 }
@@ -787,11 +852,11 @@ body, html{
 }
 
 #title-frontend {
-  margin-left: 105px;
+  margin-left: 335px;
 }
 
 #title-backend {
-  left: 500px;
+  left: 515px;
   top: 550px;
   position: absolute;
   
@@ -800,10 +865,10 @@ body, html{
 }
 
 .container-tecnologies-frontend {
-  width: 500px;
+  width: auto;
   display: flex;
   flex-direction: column;
-  margin-left: 100px;
+  margin-left: 325px;
 }
 
 #thera-web {
@@ -910,6 +975,24 @@ body, html{
   border-radius: 10px;
 }
 
+.img-barnav-btn {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 5px; /* Agregar bordes redondeados */
+  color: white; /* Color del texto */
+  height: 35px;
+  margin-left: 0;
+  width: 130px;
+  border: none; /* Eliminar bordes */
+  cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+  transition: background-color 0.3s ease; /* Efecto de transición suave */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Efecto de sombra */
+}
+
+/* Cambiar el color del botón al pasar el mouse */
+.img-barnav-btn:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
 }
 
 @media(min-width: 900px){
@@ -921,6 +1004,17 @@ body, html{
     position: absolute;
     left: 770px;
     top: 0px;
+}
+
+.container-icons-barnav {
+  margin-left: 615px;
+  margin-top: 25px;
+  width: auto;
+  position: absolute;
+}
+.item-tecnologies {
+  margin-left: 10px;
+width: 200px;
 }
 
 
@@ -980,6 +1074,45 @@ body, html{
   background-color: rgba(0, 0, 255, 0.5);
   border-radius: 10px;
 }
+.img-barnav-btn {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 5px; /* Agregar bordes redondeados */
+  color: white; /* Color del texto */
+  height: 35px;
+  margin-left: 0;
+  width: 130px;
+  border: none; /* Eliminar bordes */
+  cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+  transition: background-color 0.3s ease; /* Efecto de transición suave */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Efecto de sombra */
+}
+
+/* Cambiar el color del botón al pasar el mouse */
+.img-barnav-btn:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.container-tecnologies-backend {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+  margin-top: 150px;
+  position: absolute;
+}
+
+.container-tecnologies-frontend {
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  margin-left: 265px;
+}
+
+#title-frontend {
+  margin-left: 295px;
+}
+
+
+
 }
 
 @media(min-width: 1280px){
@@ -998,6 +1131,25 @@ body, html{
     width: 100vw;
     height: 300vh;
 }
+
+.img-barnav-btn {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 5px; /* Agregar bordes redondeados */
+  color: white; /* Color del texto */
+  height: 35px;
+  margin-left: 0;
+  width: 130px;
+  border: none; /* Eliminar bordes */
+  cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+  transition: background-color 0.3s ease; /* Efecto de transición suave */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Efecto de sombra */
+}
+
+/* Cambiar el color del botón al pasar el mouse */
+.img-barnav-btn:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
 
 .fromme-container {
   position: absolute;
@@ -1038,7 +1190,7 @@ body, html{
   width: 500px;
   display: flex;
   flex-direction: column;
-  margin-left: 220px;
+  margin-left: 350px;
   margin-top: 550px;
 }
 
@@ -1046,7 +1198,7 @@ body, html{
   width: 500px;
   display: flex;
   flex-direction: column;
-  margin-left: -200px;
+  margin-left: -175px;
   margin-top: 600px;
   position: absolute;
 }
@@ -1200,12 +1352,6 @@ body, html{
 }
 
 
-.img-barnav-btn {
-  margin-left: 0px;
-  background-color: rgba(0 0 0 0.5);
-  width: 120px;
-  height: 25px;
-}
 
 
 #thera-web{
@@ -1219,6 +1365,24 @@ body, html{
 .img-barnav{
   text-align: left;
   /* padding: 2.5px; */
+}
+
+.img-barnav-btn {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 5px; /* Agregar bordes redondeados */
+  color: white; /* Color del texto */
+  height: 35px;
+  margin-left: 0;
+  width: 130px;
+  border: none; /* Eliminar bordes */
+  cursor: pointer; /* Cambiar el cursor al pasar sobre el botón */
+  transition: background-color 0.3s ease; /* Efecto de transición suave */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Efecto de sombra */
+}
+
+/* Cambiar el color del botón al pasar el mouse */
+.img-barnav-btn:hover {
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 }
