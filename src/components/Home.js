@@ -58,7 +58,7 @@ const functionVisibility = () => {
 
   return (
     <div className='home-container'>
- { visiibilityHome & visibilityGestion === 0  && <div className='container-home-presentation'>
+ { visiibilityHome && visibilityGestion === 0  && <div className='container-home-presentation'>
 <div className='presentation-container'>
 <h1 className='name'>Cristian Camilo Medina Sanchez</h1>
 <h2>Frontend Development.</h2>
