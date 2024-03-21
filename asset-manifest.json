@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.56015a7f.css",
-    "main.js": "/static/js/main.75ededaa.js",
+    "main.css": "/static/css/main.875a8d32.css",
+    "main.js": "/static/js/main.73787e5e.js",
     "static/js/787.a2d1897a.chunk.js": "/static/js/787.a2d1897a.chunk.js",
     "static/media/thepointofthemascot.png": "/static/media/thepointofthemascot.6439e4713fa2436ff83d.png",
     "static/media/chatAngular.png": "/static/media/chatAngular.5865e724c34f597c8b82.png",
@@ -10,6 +10,7 @@
     "static/media/menudigital.png": "/static/media/menudigital.6391c211ef000d8623be.png",
     "static/media/me.jpg": "/static/media/me.e1fc2b8d7ac67a1a452d.jpg",
     "static/media/rentafriend.png": "/static/media/rentafriend.03867bdb4c761f2f1e6b.png",
+    "static/media/amfind.png": "/static/media/amfind.5302e8828b93bf73da08.png",
     "static/media/qrPlatform.png": "/static/media/qrPlatform.4875cbd117e6db404381.png",
     "static/media/Proyecto_en_construccion.jpg": "/static/media/Proyecto_en_construccion.ed25e02e527e3e068b90.jpg",
     "static/media/rockclothes.png": "/static/media/rockclothes.8f24a564a221e2d2b10a.png",
@@ -32,12 +33,12 @@
     "static/media/JAVASCRIPT-removebg-preview.png": "/static/media/JAVASCRIPT-removebg-preview.e7666949de72767e3e9b.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.56015a7f.css.map": "/static/css/main.56015a7f.css.map",
-    "main.75ededaa.js.map": "/static/js/main.75ededaa.js.map",
+    "main.875a8d32.css.map": "/static/css/main.875a8d32.css.map",
+    "main.73787e5e.js.map": "/static/js/main.73787e5e.js.map",
     "787.a2d1897a.chunk.js.map": "/static/js/787.a2d1897a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56015a7f.css",
-    "static/js/main.75ededaa.js"
+    "static/css/main.875a8d32.css",
+    "static/js/main.73787e5e.js"
   ]
 }
