@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.521428e6.css",
+    "main.css": "/static/css/main.b1777f92.css",
     "main.js": "/static/js/main.2a0371f1.js",
     "static/js/787.a2d1897a.chunk.js": "/static/js/787.a2d1897a.chunk.js",
     "static/media/thepointofthemascot.png": "/static/media/thepointofthemascot.6439e4713fa2436ff83d.png",
@@ -34,12 +34,12 @@
     "static/media/JAVASCRIPT-removebg-preview.png": "/static/media/JAVASCRIPT-removebg-preview.e7666949de72767e3e9b.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.521428e6.css.map": "/static/css/main.521428e6.css.map",
+    "main.b1777f92.css.map": "/static/css/main.b1777f92.css.map",
     "main.2a0371f1.js.map": "/static/js/main.2a0371f1.js.map",
     "787.a2d1897a.chunk.js.map": "/static/js/787.a2d1897a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.521428e6.css",
+    "static/css/main.b1777f92.css",
     "static/js/main.2a0371f1.js"
   ]
 }
